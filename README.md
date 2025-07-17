@@ -32,21 +32,21 @@ The backend utilizes the NextJS capibility to embed server-side code in its code
 
 ## DESIGNERS
 
-1. Mariam - Team Lead
-2. Babatola - Assistant Team Lead
-3. Lade
-4. Frank
-5. Joseph
+1. chittiraju - Team Lead
+2. Hareesh - Assistant Team Lead
+3. Madhav
+4. Bhanu Prakash
+   
 
 ## PRODUCT MANAGER
 
-1. Manji Best
+1. chittiraju
 
 ## DEVELOPERS
 
-1. Asaolu James - Team Lead [<asaoljtomi@gmail.com>, <www.twitter.com/asaolujames5>]
-2. Lilian Damisa
-3. Emeka
+1. Hareesh - Team Lead [<gullapalliichitti@gmail.com>]
+2. chittiraju
+3. Madhav
 
 ## PROJECT STATUS
 
